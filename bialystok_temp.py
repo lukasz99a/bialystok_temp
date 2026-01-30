@@ -1,4 +1,4 @@
-"""#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 Pobiera ostatni pomiar temperatury dla stacji synop (domyślnie 12295 - Białystok)
 z API: https://danepubliczne.imgw.pl/api/data/synop/id/<id>
